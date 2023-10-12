@@ -1,1 +1,3 @@
-# ERC20-transaction-
+ An ERC-20 transaction involves the transfer or interaction with tokens that adhere to the ERC-20 standard on the Ethereum blockchain. The ERC-20 standard is a set of rules and functions that define how tokens should behave on the Ethereum platform
+
+ ERC-20 is a widely adopted standard for fungible tokens on the Ethereum blockchain. These tokens can represent any tradable asset and can be transferred, bought, or sold just like physical assets. ERC-20 tokens are used in a wide range of applications including Initial Coin Offerings (ICOs), decentralized exchanges, and various decentralized finance (DeFi) protocols.
